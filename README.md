@@ -10,7 +10,11 @@ The Exercise Tracker project is one of the projects required to complete the fre
 
 ## Documentação
 
-[Documentação](https://link-da-documentação)
+[MongoDB](https://www.mongodb.com/docs/)
+[Mongoose](https://mongoosejs.com/docs/)
+[Node.js](https://nodejs.org/en/docs)
+[Express.js](https://expressjs.com/en/starter/installing.html)
+[NPM](https://docs.npmjs.com/)
 
 
 ## Funcionalidades
