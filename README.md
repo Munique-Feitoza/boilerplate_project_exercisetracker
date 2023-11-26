@@ -8,7 +8,7 @@ The Exercise Tracker project is one of the projects required to complete the fre
 ![Screenshot_2023-11-26-13-39-29-827_com android chrome](https://github.com/freeCodeCamp/boilerplate-project-exercisetracker/assets/140446097/41ca35e3-c9b9-4f4f-9955-2d864fd6422c)
 
 
-## Documentação
+## Documentation
 
  - [MongoDB](https://www.mongodb.com/docs/)
  - [Mongoose](https://mongoosejs.com/docs/)
@@ -17,7 +17,7 @@ The Exercise Tracker project is one of the projects required to complete the fre
  - [NPM](https://docs.npmjs.com/)
 
 
-## Funcionalidades
+## Functionalities
 
 - Create user
 - Add exercises
